@@ -8,4 +8,5 @@ and following external packages :
 
 - Chi [router](https://github.com/go-chi/chi)
 - [Alex Edward SCS](https://github.com/alexedwards/scs/v2) session manager
-- JUstinas for CSRF [nosurf](https://github.com/justinas/nosurf)  
+- Justinas for CSRF [nosurf](https://github.com/justinas/nosurf)  
+- Customizing datepicker with [mymyh](https://github.com/mymth/vanillajs-datepicker)
