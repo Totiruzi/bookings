@@ -10,3 +10,5 @@ and following external packages :
 - [Alex Edward SCS](https://github.com/alexedwards/scs/v2) session manager
 - Justinas for CSRF [nosurf](https://github.com/justinas/nosurf)  
 - Customizing datepicker with [mymyh](https://github.com/mymth/vanillajs-datepicker)
+- [Jared Reich](https://github.com/jaredreich/notie) notification library
+- [Sweet Alert](https://sweetalert2.github.io/) for Modal Notification 
